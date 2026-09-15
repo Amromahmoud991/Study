@@ -1,0 +1,14 @@
+# Ignore VS Code configuration directory
+.vscode/
+
+# Ignore your compiled outputs folder
+output/
+
+# C programming output targets
+*.exe
+*.o
+*.out
+
+# Python cache files
+__pycache__/
+*.pyc
