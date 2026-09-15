@@ -14,7 +14,7 @@ int main(void)
       printf ("%d is smaller than %d\n", x, y);
    }
    else {
-      printf ("They are equal");
+      printf ("They are equal\n");
    }
    return 0;
 }

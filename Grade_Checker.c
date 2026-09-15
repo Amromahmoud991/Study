@@ -14,4 +14,5 @@ int main(void)
     else if (score >= 50) {
         printf ("Pass!\n");
     }
+    return 0;
 }

@@ -13,4 +13,5 @@ int main(void)
         printf ("%c", symbol);
     }
     printf ("\n");
+    return 0;
 }
